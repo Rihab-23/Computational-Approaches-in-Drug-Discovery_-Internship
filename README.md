@@ -1,4 +1,4 @@
-# Computational-Approaches-in-Drug-Discovery_-Internship
+# Computational-Approaches-in-Drug-Discovery_-Course_2026
 All Asignements 
 Uploaded Assignments:
  Assignment 1: BENSALEK_Rihab_Task1 (PDB 20 Target Extraction related to colorectal cancer)
